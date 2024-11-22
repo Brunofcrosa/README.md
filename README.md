@@ -1,4 +1,5 @@
 Bem-vindo ao meu repositório no GitHub!
 
 ## Estou aprendendo
-![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Angular_logo.svg)
+![Angular](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/svgs/brands/angular.svg)
+
